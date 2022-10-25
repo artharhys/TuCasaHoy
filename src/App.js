@@ -1,13 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import BootstrapCarousel from './components/BootstrapCarousel';
+import BootstrapNavBar from './components/BootstrapNavBar';
 
 function App() {
   return (
     <div className="App">
-      <h1> HAROOO</h1>
-      <h2> adknkadfnadfnasads</h2>
-      <h3>skdjlfnksdfjnsdkjfnjksdf</h3>
-      
+      <BootstrapNavBar/>    
+      <BootstrapCarousel/>
     </div>
   );
 }
