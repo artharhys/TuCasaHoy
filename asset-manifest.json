@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/TuCasaHoy/static/css/main.90fd6ac2.css",
-    "main.js": "/TuCasaHoy/static/js/main.1a207eb4.js",
+    "main.js": "/TuCasaHoy/static/js/main.c4558eee.js",
     "static/js/787.010506a7.chunk.js": "/TuCasaHoy/static/js/787.010506a7.chunk.js",
     "static/media/car3.JPG": "/TuCasaHoy/static/media/car3.deb909c1bb20ebb69502.JPG",
     "static/media/car1.jpeg": "/TuCasaHoy/static/media/car1.6b4dd475cf7efe78ee37.jpeg",
     "static/media/car2.jpeg": "/TuCasaHoy/static/media/car2.ddcfc1865ae88e7d5766.jpeg",
     "index.html": "/TuCasaHoy/index.html",
     "main.90fd6ac2.css.map": "/TuCasaHoy/static/css/main.90fd6ac2.css.map",
-    "main.1a207eb4.js.map": "/TuCasaHoy/static/js/main.1a207eb4.js.map",
+    "main.c4558eee.js.map": "/TuCasaHoy/static/js/main.c4558eee.js.map",
     "787.010506a7.chunk.js.map": "/TuCasaHoy/static/js/787.010506a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90fd6ac2.css",
-    "static/js/main.1a207eb4.js"
+    "static/js/main.c4558eee.js"
   ]
 }
